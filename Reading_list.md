@@ -1,3 +1,13 @@
+## AB1008 (CCPA)
+1. Definition of sale/sharing
+  - selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for monetary or other valuable consideration.
+2. Clarification of personal information
+
+“Personal information” can exist in various formats, including, but not limited to, all of the following:
+- Physical formats, including paper documents, printed images, vinyl records, or video tapes.
+- Digital formats, including text, image, audio, or video files.
+- Abstract digital formats, including compressed or encrypted files, metadata, or artificial intelligence systems that are capable of outputting personal information.
+  
 ## Articles about AI privacy
 1. Exploring privacy issues in the age of AI [https://www.ibm.com/think/insights/ai-privacy]
    
